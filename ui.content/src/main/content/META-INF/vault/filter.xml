@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/Capstone" mode="merge"/>
+    <filter root="/content/Capstone" mode="merge"/>
+    <filter root="/content/dam/Capstone/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/Capstone" mode="merge"/>
+</workspaceFilter>
